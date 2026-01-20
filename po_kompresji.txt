@@ -1,0 +1,7 @@
+To jest test polskich znakow oraz innych symboli:
+1234567890
+!@#$%^&*()_+{}[]:;"'<>,.?/|\~`
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+¹æê³ñóœŸ¿ ¥ÆÊ£ÑÓŒ¯
+Koniec testu.
